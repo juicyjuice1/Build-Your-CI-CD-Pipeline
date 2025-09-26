@@ -27,4 +27,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: juicyjuice1/buildyourci-cd
+          tags: jedha/calculator:latest
